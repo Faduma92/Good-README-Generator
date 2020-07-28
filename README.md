@@ -1,7 +1,7 @@
 # Good README Generator
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ## Description
-An app that generates a readme through CLI
+An app that generates a README through CLI
 ## Table of Contents
 - Installation
 - Usage
@@ -12,9 +12,9 @@ An app that generates a readme through CLI
 ## Installation Istructions
 Download Zip file
 ## Usage
-Answer questions in promt to have Readme dynamically created
+Answer questions in prompt to have README dynamically generated
 ## License(s)
-
+None
 ## How to Contribute
 Please contact me if you would like to contribute
 ## Authors 
@@ -24,4 +24,4 @@ Jest
 ## Questions:  
 *If you have any further questions I can be contacted via e-mail or GitHub:*
     [GitHub](https://github.com/Faduma92) 
-    faduma92@gmail.com
+    Email: faduma92@gmail.com
