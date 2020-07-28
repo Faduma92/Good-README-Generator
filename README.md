@@ -23,5 +23,5 @@ Myself
 Jest
 ## Questions:  
 *If you have any further questions I can be contacted via e-mail or GitHub:*
-    [GitHub](https://github.com/Faduma92) 
-    Email: faduma92@gmail.com
+[GitHub](https://github.com/Faduma92) 
+Email: faduma92@gmail.com
