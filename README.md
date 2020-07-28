@@ -5,7 +5,7 @@ An app that generates a readme through CLI
 ## Table of Contents
 - Installation
 - Usage
-- Liscence(s)
+- Licence(s)
 - Contributing
 - Tests
 - Questions
